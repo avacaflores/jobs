@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Buscar Trabajo</string>
+    <string name="sync_action">Sync</string>
+    <string name="post_action">Job Post</string>
+    <string name="title_label">Title</string>
+    <string name="description_label">Description</string>
+    <string name="contact_label">Contact</string>
+    <string name="post_button">Post!</string>
+</resources>
+
